@@ -1,2 +1,2 @@
-# kokoy
-Hi I'm newbie
+# smple-web
+Sample Website
